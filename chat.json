@@ -6,45 +6,5 @@
         "source": "base_assistant",
         "content": "Can you describe the project a bit more?",
         "metadata": {}
-    },
-    {
-        "id": "8cd4a3c2-5756-43a8-af49-02b7ecf282ce",
-        "timestamp": "2024-10-30T11:32:49.332367Z",
-        "role": "user",
-        "source": "web_client",
-        "content": "hi",
-        "metadata": {}
-    },
-    {
-        "id": "b401d12d-0986-4357-bcdb-1ea1ad8f6c2b",
-        "timestamp": "2024-10-30T11:32:52.168509Z",
-        "role": "assistant",
-        "source": "base_assistant",
-        "content": "Hello! How can I assist you with building your app today?",
-        "metadata": {}
-    },
-    {
-        "id": "c1a233bf-2353-4183-b589-1872e105a0c1",
-        "timestamp": "2024-10-30T11:33:04.444292Z",
-        "role": "user",
-        "source": "web_client",
-        "content": "what components are there?",
-        "metadata": {}
-    },
-    {
-        "id": "70cf4a40-16cb-42c6-ad39-4cacc244b113",
-        "timestamp": "2024-10-30T11:33:09.988329Z",
-        "role": "assistant",
-        "source": "base_assistant",
-        "content": "The available components in your app are: purple_header_component_1725357610, simple_hero_component_1725357544, multiple purple header components (with different IDs), simple_footer_component_1725357544, and simple_header_component_1725357544. Let me know if you'd like to do something with any of these components!",
-        "metadata": {}
-    },
-    {
-        "id": "9bfe2d45-0b47-4a2b-b06d-603ed4cd2dc6",
-        "timestamp": "2024-10-30T14:17:28.748637Z",
-        "role": "user",
-        "source": "web_client",
-        "content": "list the available components please",
-        "metadata": {}
     }
 ]
