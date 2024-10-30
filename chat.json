@@ -38,5 +38,13 @@
         "source": "base_assistant",
         "content": "The available components in your app are: purple_header_component_1725357610, simple_hero_component_1725357544, multiple purple header components (with different IDs), simple_footer_component_1725357544, and simple_header_component_1725357544. Let me know if you'd like to do something with any of these components!",
         "metadata": {}
+    },
+    {
+        "id": "9bfe2d45-0b47-4a2b-b06d-603ed4cd2dc6",
+        "timestamp": "2024-10-30T14:17:28.748637Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "list the available components please",
+        "metadata": {}
     }
 ]
