@@ -166,5 +166,13 @@
         "source": "base_assistant",
         "content": "SEO for your app can be enhanced by implementing features like optimized meta tags, descriptive URLs, and alt texts for images. Additionally, ensure your content is keyword-rich and provides value to your users. Integrating a blog or knowledge base can also improve your site's searchability. If you need help with specific components related to SEO, feel free to ask!",
         "metadata": {}
+    },
+    {
+        "id": "849d10e5-47a7-4253-a692-81e61e9845d1",
+        "timestamp": "2024-10-30T14:46:34.637242Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "hi",
+        "metadata": {}
     }
 ]
