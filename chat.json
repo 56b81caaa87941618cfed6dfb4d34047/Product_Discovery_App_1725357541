@@ -94,5 +94,13 @@
         "source": "web_client",
         "content": "hi",
         "metadata": {}
+    },
+    {
+        "id": "00593089-f897-402e-b103-736d9db34e2b",
+        "timestamp": "2024-10-30T14:41:00.033121Z",
+        "role": "assistant",
+        "source": "base_assistant",
+        "content": "Hi again! If you have any questions or need help with your app, feel free to ask!",
+        "metadata": {}
     }
 ]
