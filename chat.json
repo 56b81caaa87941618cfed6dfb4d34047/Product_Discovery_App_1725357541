@@ -182,5 +182,13 @@
         "source": "base_assistant",
         "content": "Hello! How can I assist you with your app today?",
         "metadata": {}
+    },
+    {
+        "id": "b0ef64ad-809d-4c4e-b81d-0f5e55ac6cbb",
+        "timestamp": "2024-10-30T14:47:43.932018Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "What are the copies within purple_header_component_1725357621",
+        "metadata": {}
     }
 ]
