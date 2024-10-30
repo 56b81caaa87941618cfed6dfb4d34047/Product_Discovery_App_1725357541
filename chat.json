@@ -206,5 +206,13 @@
         "source": "web_client",
         "content": "hi, what components are there in the project?",
         "metadata": {}
+    },
+    {
+        "id": "0c7ab0d6-43bf-4c00-a554-cda4d8bd658b",
+        "timestamp": "2024-10-30T15:55:17.920354Z",
+        "role": "assistant",
+        "source": "base_assistant",
+        "content": "The components in your project include various purple header components, a simple hero component, a simple CTA component, and a simple footer component. If you need to explore any specific component further, just let me know!",
+        "metadata": {}
     }
 ]
