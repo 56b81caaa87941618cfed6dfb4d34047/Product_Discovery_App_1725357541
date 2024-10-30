@@ -110,5 +110,13 @@
         "source": "web_client",
         "content": "Can you tell me a joke?",
         "metadata": {}
+    },
+    {
+        "id": "6d1d1e2e-3dd0-4e4e-807d-16f3a0d78a00",
+        "timestamp": "2024-10-30T14:42:49.026209Z",
+        "role": "assistant",
+        "source": "base_assistant",
+        "content": "Let's focus on building your app! If you have any questions or need help with components, feel free to ask!",
+        "metadata": {}
     }
 ]
