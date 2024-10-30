@@ -22,5 +22,13 @@
         "source": "base_assistant",
         "content": "Hello! How can I assist you with building your app today?",
         "metadata": {}
+    },
+    {
+        "id": "beb86ab0-d02a-421b-8931-a8468b748f90",
+        "timestamp": "2024-10-30T14:26:07.284489Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "What are the current component files?",
+        "metadata": {}
     }
 ]
