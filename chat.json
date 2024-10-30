@@ -118,5 +118,13 @@
         "source": "base_assistant",
         "content": "Let's focus on building your app! If you have any questions or need help with components, feel free to ask!",
         "metadata": {}
+    },
+    {
+        "id": "d0fb63dd-4bc3-47b5-af51-443f9d5d8ad4",
+        "timestamp": "2024-10-30T14:43:37.743885Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "Ok, give me ideas for the app",
+        "metadata": {}
     }
 ]
