@@ -150,5 +150,13 @@
         "source": "base_assistant",
         "content": "Personalized product recommendations could use user data and preferences to suggest items tailored to individual tastes. You could implement a \"Recommended for You\" section on the homepage, utilizing algorithms to analyze user behavior, interests, and previous interactions. This approach enhances user engagement and increases the chances of purchases. If you'd like to explore how to implement this feature in your existing components, let me know!",
         "metadata": {}
+    },
+    {
+        "id": "24b654ec-8505-4972-9547-1f5f43c4de2a",
+        "timestamp": "2024-10-30T14:44:44.391155Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "What about seo?",
+        "metadata": {}
     }
 ]
