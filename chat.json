@@ -30,5 +30,13 @@
         "source": "web_client",
         "content": "What are the different pages?",
         "metadata": {}
+    },
+    {
+        "id": "fb3de859-bbbe-4a81-a5dc-6a23e39ac08f",
+        "timestamp": "2024-10-30T14:29:20.855015Z",
+        "role": "assistant",
+        "source": "base_assistant",
+        "content": "To assist you better, please select a component first so we can explore its specific details, including navigational links and pages.",
+        "metadata": {}
     }
 ]
