@@ -102,5 +102,13 @@
         "source": "base_assistant",
         "content": "Hi again! If you have any questions or need help with your app, feel free to ask!",
         "metadata": {}
+    },
+    {
+        "id": "413891cf-be1e-49e8-857e-414cf9f307c9",
+        "timestamp": "2024-10-30T14:42:46.637114Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "Can you tell me a joke?",
+        "metadata": {}
     }
 ]
