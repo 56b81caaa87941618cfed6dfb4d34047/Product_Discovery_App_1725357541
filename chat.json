@@ -6,5 +6,13 @@
         "source": "base_assistant",
         "content": "Can you describe the project a bit more?",
         "metadata": {}
+    },
+    {
+        "id": "c8bf9a5d-2285-41e2-8e45-599455276095",
+        "timestamp": "2024-10-31T17:15:06.126547Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "Can you generate a logo for this app and add it to the purple_header_component_1725357610 component?",
+        "metadata": {}
     }
 ]
