@@ -25,7 +25,7 @@ INSTRUCTION: 3. Desktop sign-in and sign-up links on the right.
                 class="font-medium text-sm mx-4 lg:mx-5 transition duration-150 ease-in-out text-slate-300 hover:text-white"
                 href="Home.html"
               >
-                Home
+                Inicio
               </a>
             </li>
             <li>
@@ -34,7 +34,7 @@ INSTRUCTION: 3. Desktop sign-in and sign-up links on the right.
                 class="font-medium text-sm mx-4 lg:mx-5 transition duration-150 ease-in-out text-slate-300 hover:text-white"
                 href="Discover.html"
               >
-                Discover
+                Descubrir
               </a>
             </li>
             <li>
@@ -43,7 +43,7 @@ INSTRUCTION: 3. Desktop sign-in and sign-up links on the right.
                 class="font-medium text-sm mx-4 lg:mx-5 transition duration-150 ease-in-out text-slate-300 hover:text-white"
                 href="Categories.html"
               >
-                Categories
+                Categorías
               </a>
             </li>
             <li>
@@ -52,7 +52,7 @@ INSTRUCTION: 3. Desktop sign-in and sign-up links on the right.
                 class="font-medium text-sm mx-4 lg:mx-5 transition duration-150 ease-in-out text-slate-300 hover:text-white"
                 href="Trending.html"
               >
-                Trending
+                Tendencias
               </a>
             </li>
             <li>
@@ -61,7 +61,7 @@ INSTRUCTION: 3. Desktop sign-in and sign-up links on the right.
                 class="font-medium text-sm mx-4 lg:mx-5 transition duration-150 ease-in-out text-slate-300 hover:text-white"
                 href="My Profile.html"
               >
-                My Profile
+                Mi Perfil
               </a>
             </li>
           </ul>
@@ -75,7 +75,7 @@ INSTRUCTION: 3. Desktop sign-in and sign-up links on the right.
               class="font-medium text-sm whitespace-nowrap transition duration-150 ease-in-out text-slate-300 hover:text-white"
               href="signin.html"
             >
-              Sign in
+              Iniciar sesión
             </a>
           </li>
           <li class="ml-6">
@@ -84,7 +84,7 @@ INSTRUCTION: 3. Desktop sign-in and sign-up links on the right.
               class="btn-sm transition duration-150 ease-in-out w-full group relative before:absolute before:inset-0 before:bg-slate-800/30 before:rounded-full before:pointer-events-none text-slate-300 hover:text-white [background:linear-gradient(theme(colors.slate.900),_theme(colors.slate.900))_padding-box,_conic-gradient(theme(colors.slate.400),_theme(colors.slate.700)_25%,_theme(colors.slate.700)_75%,_theme(colors.slate.400)_100%)_border-box]"
               href="signup.html"
             >
-              <span class="relative inline-flex items-center"> Sign up <span id="sign-up-arrow" class="tracking-normal group-hover:translate-x-0.5 transition-transform duration-150 ease-in-out ml-1 text-purple-500">-&gt;</span> </span>
+              <span class="relative inline-flex items-center"> Registrarse <span id="sign-up-arrow" class="tracking-normal group-hover:translate-x-0.5 transition-transform duration-150 ease-in-out ml-1 text-purple-500">-&gt;</span> </span>
             </a>
           </li>
         </ul>
@@ -99,7 +99,7 @@ INSTRUCTION: 3. Desktop sign-in and sign-up links on the right.
             aria-controls="mobile-nav"
             :aria-expanded="expanded"
           >
-            <span class="sr-only">Menu</span>
+            <span class="sr-only">Menú</span>
             <svg id="hamburger-icon" class="w-5 h-5 fill-current transition duration-150 ease-in-out text-slate-300 hover:text-white" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
               <rect y="2" width="20" height="2" rx="1" />
               <rect y="9" width="20" height="2" rx="1" />
@@ -118,19 +118,19 @@ INSTRUCTION: 3. Desktop sign-in and sign-up links on the right.
           >
             <ul id="mobile-nav-list" class="border border-transparent rounded-lg px-4 py-1.5 [background:linear-gradient(theme(colors.slate.900),_theme(colors.slate.900))_padding-box,_conic-gradient(theme(colors.slate.400),_theme(colors.slate.700)_25%,_theme(colors.slate.700)_75%,_theme(colors.slate.400)_100%)_border-box]">
               <li>
-                <a id="mobile-Home-link" class="flex font-medium text-sm py-1.5 text-slate-300 hover:text-white" href="Home.html">Home</a>
+                <a id="mobile-Home-link" class="flex font-medium text-sm py-1.5 text-slate-300 hover:text-white" href="Home.html">Inicio</a>
               </li>
               <li>
-                <a id="mobile-Discover-link" class="flex font-medium text-sm py-1.5 text-slate-300 hover:text-white" href="Discover.html">Discover</a>
+                <a id="mobile-Discover-link" class="flex font-medium text-sm py-1.5 text-slate-300 hover:text-white" href="Discover.html">Descubrir</a>
               </li>
               <li>
-                <a id="mobile-Categories-link" class="flex font-medium text-sm py-1.5 text-slate-300 hover:text-white" href="Categories.html">Categories</a>
+                <a id="mobile-Categories-link" class="flex font-medium text-sm py-1.5 text-slate-300 hover:text-white" href="Categories.html">Categorías</a>
               </li>
               <li>
-                <a id="mobile-Trending-link" class="flex font-medium text-sm py-1.5 text-slate-300 hover:text-white" href="Trending.html">Trending</a>
+                <a id="mobile-Trending-link" class="flex font-medium text-sm py-1.5 text-slate-300 hover:text-white" href="Trending.html">Tendencias</a>
               </li>
               <li>
-                <a id="mobile-My Profile-link" class="flex font-medium text-sm py-1.5 text-slate-300 hover:text-white" href="My Profile.html">My Profile</a>
+                <a id="mobile-My Profile-link" class="flex font-medium text-sm py-1.5 text-slate-300 hover:text-white" href="My Profile.html">Mi Perfil</a>
               </li>
             </ul>
           </nav>
