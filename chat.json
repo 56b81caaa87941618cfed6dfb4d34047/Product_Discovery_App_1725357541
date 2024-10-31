@@ -79,5 +79,13 @@
         "source": "base_assistant",
         "content": "I can help you manage and edit your app components, like modifying their code, generating images, or setting them up to interact with smart contracts. I can also guide you on how to arrange your components within the MakeInfinite studio. Let me know what you need assistance with!",
         "metadata": {}
+    },
+    {
+        "id": "5986093a-98d0-4196-bb74-65a39a1c6289",
+        "timestamp": "2024-10-31T16:55:26.616567Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "Add an image to the component we discussed before that is a moder logo appropriate for this app",
+        "metadata": {}
     }
 ]
