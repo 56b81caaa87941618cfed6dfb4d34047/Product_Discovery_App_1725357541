@@ -63,5 +63,13 @@
         "source": "base_assistant",
         "content": "There are five pages within the desktop navigation menu: Home, Discover, Categories, Trending, and My Profile.",
         "metadata": {}
+    },
+    {
+        "id": "0a14dd48-53f9-4039-b6ba-5b2e0f2eb93e",
+        "timestamp": "2024-10-31T16:54:52.661409Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "What kinds of things are you able to do for me?",
+        "metadata": {}
     }
 ]
