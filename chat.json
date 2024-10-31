@@ -22,5 +22,13 @@
         "source": "base_assistant",
         "content": "What would you like the logo to depict or represent?",
         "metadata": {}
+    },
+    {
+        "id": "6a629263-ed0f-464c-961e-495cdca51f59",
+        "timestamp": "2024-10-31T17:15:13.686973Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "A cat",
+        "metadata": {}
     }
 ]
